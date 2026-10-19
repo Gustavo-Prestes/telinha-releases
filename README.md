@@ -4,11 +4,14 @@ Transmissão de telas entre amigos, sem login, com **áudio por aplicativo**: es
 
 ## Baixar
 
-**[⬇ Baixar a versão mais recente](https://github.com/Gustavo-Prestes/telinha-releases/releases/latest)** → arquivo `Telinha-Setup-x.y.z.exe`
+**[⬇ Baixar a versão mais recente](https://github.com/Gustavo-Prestes/telinha-releases/releases/latest)** → arquivo `Telinha-x.y.z-win.zip`
 
-1. Abra o instalador. Se aparecer "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo** (o app não tem assinatura digital paga).
-2. Pronto: atalho "Telinha" na área de trabalho e no menu Iniciar.
+1. Clique com o botão direito no ZIP → **Extrair tudo…** (por exemplo para `Documentos`).
+2. Abra a pasta **Telinha** e dê dois cliques em **Telinha.exe**.
+3. Dica: clique com o botão direito em `Telinha.exe` → **Mostrar mais opções → Enviar para → Área de trabalho (criar atalho)**.
 
-O app se atualiza sozinho quando sai versão nova.
+O app se atualiza sozinho quando sai versão nova (ele pergunta antes de reiniciar).
 
-Prefere não instalar? Use pelo navegador: https://telinha-efr8.onrender.com
+> Por que ZIP e não instalador? O Windows 11 com *Controle Inteligente de Aplicativos* bloqueia instaladores sem assinatura digital paga. No formato ZIP o app abre normalmente.
+
+Prefere não baixar nada? Use pelo navegador: https://telinha-efr8.onrender.com
